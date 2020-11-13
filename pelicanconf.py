@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Multiple'
-SITENAME = 'Nairobi GNU/Linux Users Group'
+SITENAME = 'Nairobi Linux Users Group'
 SITEURL = ''  # Intentionally left blank, see ./publishconf.py
 
 PATH = 'content'
@@ -53,10 +53,10 @@ BOOTSTRAPIFY = {
 
 THEME = 'themes/pelican-alchemy/alchemy'
 
-SITESUBTITLE = 'A lively community of GNU/Linux enthusiasts'
+SITESUBTITLE = 'A lively community of Linux enthusiasts'
 SITEIMAGE = '/images/profile.png'
 DESCRIPTION = 'A not-for-profit community serving the greater Nairobi area. ' \
-              'We are a collection of people dedicated to GNU/Linux, Free ' \
+              'We are a collection of people dedicated to Linux, Free ' \
               'Software, Open Source, and related topics.'
 
 LINKS = (
