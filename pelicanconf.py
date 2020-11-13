@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
-
+ 
 AUTHOR = 'Multiple'
 SITENAME = 'Nairobi Linux Users Group'
 SITEURL = ''  # Intentionally left blank, see ./publishconf.py
