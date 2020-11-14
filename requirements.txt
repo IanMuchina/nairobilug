@@ -1,4 +1,4 @@
 ghp-import
 Markdown
-pelican==3.7.1
+pelican==4.5.1
 bs4 # pelican-bootstrapify
