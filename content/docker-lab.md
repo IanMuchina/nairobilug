@@ -68,8 +68,6 @@ As a workaround.
 
 Now I'm starting to see why people hate Microsoft. They lock users to their ecosystem.
 
-----
-
 ## Hello World
 
 After you have installed docker, run this command as a test
